@@ -1,6 +1,6 @@
 A machine learning project to predict future stock prices and perform detailed market analysis using historical financial data. This tool empowers users to make data-driven investment decisions.
 
-🚀 Features
+Features:
 Historical stock price analysis (Open, High, Low, Close)
 
 Predict future stock prices using machine learning models (e.g., LSTM, ARIMA)
